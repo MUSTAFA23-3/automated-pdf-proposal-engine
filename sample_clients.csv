@@ -1,0 +1,4 @@
+ref_id,client_name,company,email,service_package,setup_fee_usd,monthly_retainer_usd,timeline_days,deliverables
+PROP-2026-001,Elena Rostova,Northstar Logistics,elena@northstar-demo.io,High-Conversion B2B Landing Page + Quote Engine,1450,0,7,"Responsive HTML5/CSS3/JS site; Interactive JS Quote Calculator; Lead Form Validation; QA Report"
+PROP-2026-002,Marcus Vance,Apex Retail Group,mvance@apexretail-demo.com,Google Sheets CRM & Automated Inventory Suite,1850,250,10,"Multi-tab KPI Dashboard; Apps Script Order Processor; Low-Stock HTML Alerts; Deduplication Engine"
+PROP-2026-003,Nadia Al-Mansoor,Cedarbrook Health,nadia@cedarbrook-demo.org,Automated PDF Proposal & Invoice Pipeline,1200,150,5,"Form-to-PDF Apps Script Bridge; Branded Light-Mode PDF Template; Automated Drive Archiving"
